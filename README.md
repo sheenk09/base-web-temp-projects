@@ -17,6 +17,4 @@
 * Just email me if you want to contribute and Improve this base template
 
 ### Who do I talk to? ###
-
-* ddumandan09
 * email: sheenk.kai@gmail.com
